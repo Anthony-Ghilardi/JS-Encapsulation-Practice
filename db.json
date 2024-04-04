@@ -2,15 +2,12 @@
   "cart": [
     {
       "id": 1,
-      "name": "Avery's Sandwich",
-      "bread": "Sourdough",
+      "name": "Vivica's Sandwich",
+      "bread": "White",
       "ingredients": [
-        "Cheddar Cheese",
-        "Mayo",
         "Ham",
-        "Bacon",
-        "Lettuce",
-        "Tomatoes"
+        "Turkey",
+        "Bacon"
       ]
     }
   ],
